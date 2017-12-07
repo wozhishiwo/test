@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>BingQiMobileAppCeshi</string>
+				<string>com.bzhcw.BingQiMobileApp</string>
 				<key>bundle-version</key>
 				<string>1.0.4</string>
 				<key>kind</key>
